@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>七伊</title>
+  
+  <subtitle>世界很暗 , 但是你来了</subtitle>
+  <link href="http://ykyk1k1.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ykyk1k1.github.io/"/>
+  <updated>2022-03-18T06:01:10.680Z</updated>
+  <id>http://ykyk1k1.github.io/</id>
+  
+  <author>
+    <name>七伊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试</title>
+    <link href="http://ykyk1k1.github.io/2021/123024394.html"/>
+    <id>http://ykyk1k1.github.io/2021/123024394.html</id>
+    <published>2021-12-30T06:13:27.000Z</published>
+    <updated>2022-03-18T06:01:10.680Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1&gt;&lt;font color=&quot;red&quot;&gt;
+    金三银四 Java 面试突击专题
+&lt;/font&gt;&lt;/h1&gt;
+    === &lt;font size=&quot;5&quot;&gt;作者：七伊&lt;/font&gt; ===
+&lt;/center&gt;
+
+&lt;h2 id=&quot;基础&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java 面试" scheme="http://ykyk1k1.github.io/categories/Java-%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="面试" scheme="http://ykyk1k1.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JVM</title>
+    <link href="http://ykyk1k1.github.io/2021/122724394.html"/>
+    <id>http://ykyk1k1.github.io/2021/122724394.html</id>
+    <published>2021-12-27T12:58:27.000Z</published>
+    <updated>2022-01-06T09:02:27.273Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;h2 id=&quot;什么是JVM&quot;&gt;&lt;a href=&quot;#什么是JVM&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://ykyk1k1.github.io/categories/Java/"/>
+    
+    <category term="JVM" scheme="http://ykyk1k1.github.io/categories/Java/JVM/"/>
+    
+    <category term="必须掌握" scheme="http://ykyk1k1.github.io/categories/Java/JVM/%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1/"/>
+    
+    
+    <category term="必须掌握" scheme="http://ykyk1k1.github.io/tags/%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1/"/>
+    
+    <category term="JVM" scheme="http://ykyk1k1.github.io/tags/JVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rabbit-MQ</title>
+    <link href="http://ykyk1k1.github.io/2021/112924394.html"/>
+    <id>http://ykyk1k1.github.io/2021/112924394.html</id>
+    <published>2021-11-29T05:58:27.000Z</published>
+    <updated>2021-12-17T06:30:14.311Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-消息队列&quot;&gt;&lt;a href=&quot;#1-消息队列&quot; class=&quot;headerlink&quot; title=&quot;1. 消息队列&quot;&gt;&lt;/a&gt;1. 消息队列&lt;/h1&gt;&lt;h2 id=&quot;1-1MQ-的相关概念&quot;&gt;&lt;a href=&quot;#1-1MQ-的相关概念&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Rabbit MQ" scheme="http://ykyk1k1.github.io/categories/Rabbit-MQ/"/>
+    
+    <category term="Java" scheme="http://ykyk1k1.github.io/categories/Rabbit-MQ/Java/"/>
+    
+    
+    <category term="消息中间件" scheme="http://ykyk1k1.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="Rabbit MQ" scheme="http://ykyk1k1.github.io/tags/Rabbit-MQ/"/>
+    
+  </entry>
+  
+</feed>
